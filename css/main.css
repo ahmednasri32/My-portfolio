@@ -405,7 +405,7 @@ header .row .social a:hover i.facebook {
     background-color: grey;
     border-radius: 50%;
 }
-@media (max-width: 767px) {
+@media (max-width: 1199px) {
     .row-testmonials .icon-circle span {
         display: none;
     }
