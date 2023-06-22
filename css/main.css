@@ -274,6 +274,11 @@ header .row .social a:hover i.facebook {
     padding-bottom: 40px;
     gap: 35px;
 }
+@media (max-width: 767px) {
+    .row-brand .row-col {
+    grid-template-columns:minmax(200px, 1fr);
+    }
+}
 .row-brand .row-col .col {
     display: flex;
     flex-direction: column;
