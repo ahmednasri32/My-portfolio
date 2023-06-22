@@ -277,6 +277,7 @@ header .row .social a:hover i.facebook {
 @media (max-width: 767px) {
     .row-brand .row-col {
     grid-template-columns:minmax(200px, 1fr);
+        padding-bottom: 20px;
     }
 }
 .row-brand .row-col .col {
