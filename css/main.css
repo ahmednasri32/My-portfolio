@@ -236,6 +236,11 @@ header .row .social a:hover i.facebook {
     top:-60px;
     color: #3f3f3f;
 }
+@media (max-width: 500px) {
+    .row-brand {
+        padding:65px 20px;
+    }
+}
 .row-brand > h4 {
     text-transform: uppercase;
     font-weight: 300;
