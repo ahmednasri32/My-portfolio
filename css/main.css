@@ -523,7 +523,8 @@ header .row .social a:hover i.facebook {
 /* end about */
 /* start row cleint */
 .row-cleint {
-    padding:50px 0;
+    padding-top:50px;
+    padding-bottom: 50px;
 }
 .row-cleint h4 {
     text-transform: uppercase;
